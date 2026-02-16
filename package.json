@@ -1,0 +1,10 @@
+{
+  "name": "slack-escalation-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/web-api": "^6.8.1",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.0.3"
+  }
+}
