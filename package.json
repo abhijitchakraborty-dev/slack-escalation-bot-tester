@@ -1,5 +1,5 @@
 {
-  "name": "slack-escalation-bot",
+  "name": "slack-escalation-bot-tester",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
