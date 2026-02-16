@@ -85,3 +85,5 @@ cron.schedule('30 3 * * *', () => {
 });
 
 console.log("Escalation bot running...");
+sendReport();
+;
